@@ -7,7 +7,8 @@
 5. closing connection when analysis is complete
 
 #### Dataset
-This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.
+This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014. 
+The dataset has been saved as payroll.csv
 
 #### Data Exploration
 1. What are the top 10 jobs in terms of numbers (count)?
